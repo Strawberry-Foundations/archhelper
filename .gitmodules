@@ -1,0 +1,3 @@
+[submodule "python-pacman"]
+	path = python-pacman
+	url = https://github.com/peakwinter/python-pacman
