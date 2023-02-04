@@ -13,4 +13,4 @@ Its a GUI-terminal-driven Python tool to help you wtih installing Arch. It assis
 
 # Credits
 
-[`python-pacman`](https://github.com/peakwinter/python-pacman) by [peakwinter](https://github.com/peakwinter)
+[`python-pacman`](https://github.com/peakwinter/python-pacman) by [peakwinter](https://github.com/peakwinter) for the pacman interface
