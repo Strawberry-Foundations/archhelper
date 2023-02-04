@@ -6,7 +6,7 @@ Its a GUI-terminal-driven Python tool to help you wtih installing Arch. It assis
 
 # ToDo
 
-[] Basics
-[] Disk partitioning
-[] pacman handling
-[] systemd/dbus interfacing
+[ ] Basics
+[ ] Disk partitioning
+[ ] pacman handling
+[ ] systemd/dbus interfacing
