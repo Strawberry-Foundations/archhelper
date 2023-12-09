@@ -1,0 +1,14 @@
+packages: ["linux", "linux-firmware", "base", "sudo"]
+
+users:
+  user1:
+    - name: "myName"
+    - password: "myPassword"
+    - groups: ["wheel"]
+
+system:
+  - hostname: "myHostname"
+  - timezone: "Europe/Vienna"
+  - locale: "en_US.UTF-8"
+  - keymap: "de-latin1-nodeadkeys"
+  - autoStartServices: ["sshd"]
